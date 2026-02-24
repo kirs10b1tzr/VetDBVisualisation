@@ -1,0 +1,61 @@
+﻿,client,service,cost,branch,pay_method,account_id,date
+0,Person1,Vaccination,£45.00,Guildford,Cash,9528512,05/12/2024
+1,Person2,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+2,Person3,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+3,Person4,Vaccination,£30.00,Epsom,Cash,4766371,05/12/2024
+4,Person1,Dental Cleaning,£35.00,Woking,Card,1575577,05/12/2024
+5,Person4,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+6,Person5,Health Check,£30.00,Guildford,Cash,9625482,20/10/2024
+7,Person2,Deworming,£35.00,Guildford,Card,1575577,01/11/2024
+8,Person6,Vaccination,£35.00,Redhill,Card,1575577,12/08/2024
+9,Person7,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+10,Person8,Vaccination,£35.00,Redhill,Card,1575577,12/08/2024
+11,Person9,Vaccination,£45.00,Guildford,Cash,9528512,05/12/2024
+12,Person10,Health Check,£30.00,Guildford,Cash,9625482,20/10/2024
+13,Person11,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+14,Person12,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+15,Person13,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+16,Person14,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+17,Person15,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+18,Person10,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+19,Person16,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+20,Person17,Vaccination,£30.00,Epsom,Cash,4766371,05/12/2024
+21,Person18,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+22,Person14,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+23,Person19,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+24,Person10,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+25,Person20,Vaccination,£35.00,Redhill,Card,1575577,12/08/2024
+26,Person21,Deworming,£35.00,Guildford,Card,1575577,01/11/2024
+27,Person22,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+28,Person23,Deworming,£35.00,Guildford,Card,1575577,01/11/2024
+29,Person24,Health Check,£30.00,Guildford,Cash,9625482,20/10/2024
+30,Person20,Vaccination,£45.00,Guildford,Cash,9528512,05/12/2024
+31,Person25,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+32,Person26,Deworming,£35.00,Guildford,Card,1575577,01/11/2024
+33,Person27,Vaccination,£35.00,Redhill,Card,1575577,12/08/2024
+34,Person28,Deworming,£35.00,Guildford,Card,1575577,01/11/2024
+35,Person29,Health Check,£30.00,Guildford,Cash,9625482,20/10/2024
+36,Person30,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+37,Person31,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+38,Person22,Vaccination,£35.00,Woking,Card,1575577,05/12/2024
+39,Person30,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+40,Person32,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+41,Person33,Vaccination,£35.00,Woking,Card,1575577,05/12/2024
+42,Person34,Vaccination,£30.00,Epsom,Cash,4766371,05/12/2024
+43,Person13,Vaccination,£45.00,Guildford,Cash,9528512,05/12/2024
+44,Person30,Vaccination,£35.00,Redhill,Card,1575577,12/08/2024
+45,Person12,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+46,Person12,Health Check,£30.00,Guildford,Cash,9625482,20/10/2024
+47,Person15,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+48,Person35,Vaccination,£30.00,Epsom,Cash,4766371,05/12/2024
+49,Person14,Nail Trim,£25.00,Woking,Cash,1713895,12/08/2024
+50,Person36,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+51,Person37,Vaccination,£35.00,Woking,Card,1575577,05/12/2024
+52,Person21,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+53,Person35,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+54,Person16,Deworming,£35.00,Woking,Cash,1713895,12/08/2024
+55,Person38,Dental Cleaning,£35.00,Woking,Card,1575577,15/09/2024
+56,Person39,Vaccination,£35.00,Woking,Card,1575577,05/12/2024
+57,Person10,Check-up,£45.00,Epsom,Card,1575577,12/08/2024
+58,Person33,Vaccination,£35.00,Woking,Card,1575577,05/12/2024
+59,Person36,Vaccination,£45.00,Guildford,Cash,9528512,05/12/2024
